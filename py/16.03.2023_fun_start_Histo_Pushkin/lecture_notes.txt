@@ -1,0 +1,6 @@
+1  Start from Dict as a Histogram concept - some histogram concepts, why releveant etc
+2 Dict Ch9  "9.1 Dictionary as a set of counters# pholosohpy 
+3 " 9.4 PAGE 115 Advanced text parsing" PUSHKIN - First speak about Translate - Punctuat
+4 "10.6 page 125 The most common words ##
+5 word Histogram and pip and numpy PREVIEWWW
+6 FUNCTIONS DR CHUCK Book CH FUNCTIONS 
